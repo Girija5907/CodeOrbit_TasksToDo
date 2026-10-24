@@ -1,0 +1,6 @@
+{
+  "name": "Girija_TodoApp",
+  "description": "A modern, responsive To-Do List Web Application with localStorage persistence, filters, search, and progress tracking for the CodeOrbit internship project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
